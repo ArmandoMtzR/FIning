@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'course.dart';
 import 'catalog.dart';
+import 'theme.dart';
 
 void main() => runApp(const FiningApp());
 
@@ -10,11 +11,7 @@ class FiningApp extends StatelessWidget {
   Widget build(BuildContext context) => MaterialApp(
         title: 'FIning',
         debugShowCheckedModeBanner: false,
-        theme: ThemeData(
-            useMaterial3: true,
-            colorScheme:
-                ColorScheme.fromSeed(seedColor: const Color(0xff12345b)),
-            scaffoldBackgroundColor: const Color(0xfff6f7fa)),
+        theme: FiningTheme.light,
         home: const Home(),
       );
 }
