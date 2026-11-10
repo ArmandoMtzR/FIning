@@ -11,12 +11,14 @@ void main() {
   testWidgets('carga catálogo oficial y filtra materias', (tester) async {
     await tester.pumpWidget(const FiningApp());
     await tester.pumpAndSettle();
+    await tester.tap(find.widgetWithText(NavigationDestination, 'Materias'));
+    await tester.pumpAndSettle();
     expect(find.text('Explora tu carrera'), findsOneWidget);
     await tester.enterText(
         find.byType(EditableText), 'Pensamiento Computacional');
     await tester.pumpAndSettle();
-    expect(find.widgetWithText(ListTile, 'Pensamiento Computacional'), findsOneWidget);
+    expect(find.widgetWithText(ListTile, 'Pensamiento Computacional'),
+        findsOneWidget);
     expect(find.text('Álgebra y Geometría Analítica'), findsNothing);
   });
 }
-
