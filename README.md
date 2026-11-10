@@ -23,7 +23,7 @@ flutter run
 
 SDK local en C:\Users\harma\source\flutter. Agrega su carpeta bin al PATH o invoca flutter.bat con ruta completa.
 
-Android SDK instalado, pero flutter doctor reporta cmdline-tools faltantes y licencias sin verificar. Completar esa configuración antes de compilar un APK. iOS requiere macOS y Xcode.
+Android Studio instalado y SDK Android validado con flutter doctor (plataforma y build-tools 36, licencias aceptadas). Para compilar: flutter build apk --debug. El APK se genera en build/app/outputs/flutter-apk/app-debug.apk. No hay emulador configurado todavía. iOS requiere macOS y Xcode.
 
 ## Siguiente entrega
 
