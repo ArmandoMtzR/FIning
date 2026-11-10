@@ -1,0 +1,193 @@
+{
+  "plan": 2026,
+  "generation": 2027,
+  "totalCredits": 366,
+  "source": "https://mapas.ingenieria.unam.mx/mapa-2026?year=2026&carrera=110",
+  "courses": [
+    {
+      "name": "Álgebra y Geometría Analítica",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/algebra_y_geometria_analitica.pdf"
+    },
+    {
+      "name": "Cálculo Diferencial e Integral",
+      "credits": 10,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/calculo_diferencial_e_integral.pdf"
+    },
+    {
+      "name": "Introducción al Modelado de Fenómenos Físicos",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/introduccion_al_modelado_de_fenomenos_fisicos.pdf"
+    },
+    {
+      "name": "Fundamentos para la Resolución de Problemas en Ingeniería",
+      "credits": 2,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/fundamentos_para_la_resolucion_de_problemas_en_ingenieria.pdf"
+    },
+    {
+      "name": "Pensamiento Computacional",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/pensamiento_computacional.pdf"
+    },
+    {
+      "name": "Igualdad de Género en Ingeniería",
+      "credits": 2,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/igualdad_de_genero_en_ingenieria.pdf"
+    },
+    {
+      "name": "Mecánica",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/mecanica.pdf"
+    },
+    {
+      "name": "Cálculo Vectorial",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/calculo_vectorial.pdf"
+    },
+    {
+      "name": "Ecuaciones Diferenciales",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/ecuaciones_diferenciales.pdf"
+    },
+    {
+      "name": "Álgebra Lineal",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/algebra_lineal.pdf"
+    },
+    {
+      "name": "Estructura de Datos y Algoritmos",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/estructura_de_datos_y_algoritmos.pdf"
+    },
+    {
+      "name": "Sociedad, Cultura e Identidad",
+      "credits": 2,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/sociedad_cultura_e_identidad.pdf"
+    },
+    {
+      "name": "Probabilidad y Estadística",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/probabilidad_y_estadistica.pdf"
+    },
+    {
+      "name": "Electricidad y Magnetismo",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/electricidad_y_magnetismo.pdf"
+    },
+    {
+      "name": "Matemáticas Avanzadas",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/matematicas_avanzadas.pdf"
+    },
+    {
+      "name": "Estructuras Discretas y Computación",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/estructuras_discretas_y_computacion.pdf"
+    },
+    {
+      "name": "Programación y Algoritmos Avanzados",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/programacion_y_algoritmos_avanzados.pdf"
+    },
+    {
+      "name": "Comunicación Multimodal",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/comunicacion_multimodal.pdf"
+    },
+    {
+      "name": "Ingeniería de Datos e Inteligencia Artificial",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/ingenieria_de_datos_e_inteligencia_artificial.pdf"
+    },
+    {
+      "name": "Análisis Numérico",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/analisis_numerico.pdf"
+    },
+    {
+      "name": "Análisis de Sistemas y Señales",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/analisis_de_sistemas_y_senales.pdf"
+    },
+    {
+      "name": "Análisis de Circuitos Eléctricos",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/analisis_de_circuitos_electricos.pdf"
+    },
+    {
+      "name": "Diseño Orientado a Objetos y Concurrencia",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/diseno_orientado_a_objetos_y_concurrencia.pdf"
+    },
+    {
+      "name": "Teoría de Lenguajes y Autómatas",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/teoria_de_lenguajes_y_automatas.pdf"
+    },
+    {
+      "name": "Física Cuántica",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/fisica_cuantica.pdf"
+    },
+    {
+      "name": "Bases de Datos",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/bases_de_datos.pdf"
+    },
+    {
+      "name": "Inteligencia Artificial",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/inteligencia_artificial.pdf"
+    },
+    {
+      "name": "Dispositivos y Circuitos Electrónicos",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/dispositivos_y_circuitos_electronicos.pdf"
+    },
+    {
+      "name": "Sistemas Operativos",
+      "credits": 10,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/sistemas_operativos.pdf"
+    },
+    {
+      "name": "Liderazgo Estratégico",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/liderazgo_estrategico.pdf"
+    },
+    {
+      "name": "Finanzas en Ingeniería",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/finanzas_en_ingenieria.pdf"
+    },
+    {
+      "name": "Redes de Datos",
+      "credits": 8,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/redes_de_datos.pdf"
+    },
+    {
+      "name": "Ingeniería Económica",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/ingenieria_economica.pdf"
+    },
+    {
+      "name": "Ética Profesional",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/etica_profesional.pdf"
+    },
+    {
+      "name": "Gestión Integral de Proyectos",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/gestion_integral_de_proyectos.pdf"
+    },
+    {
+      "name": "Ingeniería y Desarrollo Sostenible",
+      "credits": 6,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/ingenieria_y_desarrollo_sostenible.pdf"
+    },
+    {
+      "name": "Proyecto Integrador en Ingeniería",
+      "credits": 10,
+      "url": "https://mapas.ingenieria.unam.mx/pdf/carrera/110/proyecto_integrador_en_ingenieria.pdf"
+    }
+  ]
+}
