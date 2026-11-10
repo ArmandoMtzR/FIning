@@ -28,3 +28,5 @@ Android Studio instalado y SDK Android validado con flutter doctor (plataforma y
 ## Siguiente entrega
 
 Importación de grupos con semestre y fecha verificables; soporte de planes 2016/2023; persistencia local; avance oficial con optativas y requisitos modelados.
+
+Para retomar el proyecto en otra sesión: [estado y próximos pasos](docs/CONTINUAR.md).
